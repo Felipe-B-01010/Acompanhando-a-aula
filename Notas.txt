@@ -1,0 +1,24 @@
+*** Iniciar uma pasta no GIT
+
+ GIT INIT
+
+****   Conectar um repositorio  
+
+Dica no proprio github
+
+**** Ver qual pasta esta trabalhando:
+
+GIT REMOTE -V
+
+*** Saber o estado do arquivo:
+
+GIT STATUS
+
+*** Modificar o estado de um arquivo:
+
+GIT ADD 	"nome do arquivo"
+
+***  Para commit arquivo:
+
+GIT COMMIT -M   "MENSSAGEM  mais nome do arquivo"
+ 
