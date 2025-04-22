@@ -1,10 +1,14 @@
-*** Iniciar uma pasta no GIT
+1) *** Iniciar uma pasta no GIT
 
  GIT INIT
 
-****   Conectar um repositorio  
+2)***Mudar o nome do ramificação de Main para Master
 
-Dica no proprio github
+GIT BRANCH -M MAIN
+
+3) ****   Conectar um repositorio , link o repositorio do computador com o gitbub
+
+Dica no proprio github   
 
 **** Ver qual pasta esta trabalhando:
 
@@ -20,5 +24,9 @@ GIT ADD 	"nome do arquivo"
 
 ***  Para commit arquivo:
 
-GIT COMMIT -M   "MENSSAGEM  mais nome do arquivo"
+GIT COMMIT -M   "MENSSAGEM  opcional para saber o que foi feito"
+
+*** Para Subir os arquivos pra o gitHub:
+
+GIT PUSH -U ORIGIN MAIN
  
